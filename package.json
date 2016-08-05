@@ -2,7 +2,7 @@
   "name": "chen-parse-time",
   "version": "1.0.0",
   "description": "格式化时间，优化js时间的问题",
-  "main": "index.js",
+  "main": "lib/chen-parse-time.js",
   "scripts": {
     "test": "make test"
   },
