@@ -1,0 +1,23 @@
+{
+  "name": "chen-parse-time",
+  "version": "1.0.0",
+  "description": "格式化时间，优化js时间的问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chenjinxinlove/parse-time.git"
+  },
+  "keywords": [
+    "parse-time",
+    "time"
+  ],
+  "author": "chenjinxinlove",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjinxinlove/parse-time/issues"
+  },
+  "homepage": "https://github.com/chenjinxinlove/parse-time#readme"
+}
